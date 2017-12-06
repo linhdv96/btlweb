@@ -1,0 +1,66 @@
+a{
+	text-decoration: none
+}
+.input_text{
+	width: 250;
+	height: 30;
+}
+.input_submit{
+	width: 100;
+	height: 25;
+	margin: 25;
+	text-align: center;
+}
+
+.input_search {
+	height: 30; 
+	width: 220; 
+	margin-top: 20;
+}
+
+h1 {
+	font-family:Comic sans MS; 
+	font-size:100; 
+}
+
+
+label#home {
+	margin-left: 100;
+	font-family: forte; 
+	font-size: 50; 
+	color: black;
+}
+
+label#search {
+	margin-left: 100;
+	padding-bot: 100;
+	font-size: 20; 
+}
+
+label#tcn {
+	margin-top: 20;
+	margin-left: 20;
+	font-size: 20; 
+	color: 666699;
+}
+
+
+.ibox{
+	margin-left: 200;
+	width: 900;
+    position: absolute;
+    background-color: #f9f9f9;
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+img {
+	padding: 0;
+	margin: 0;
+	width: 600;
+}
+
+#add_album{
+	width: 140; 
+	height: 50; 
+}
